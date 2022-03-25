@@ -16,7 +16,7 @@ I have nothing to do with your profit, loss and capital. Bot is free
 ## NEW UPDATES
 1. In this new update you can use BNB instead WBNB. it will make you easier to snipe :)
 
-*What's will you get
+## What's will you get
 Everything is free no charge. Please only contact to Telegrame:<code>https://t.me/Sbot_live</code> with subject <b>SY Bot Info</b> for more info. For error or problem questions please open issues in GitHub, don't email me. Maybe I'll slow response on weekend. Thanks!
 
 ## Bot future
