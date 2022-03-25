@@ -17,7 +17,7 @@ I have nothing to do with your profit, loss and capital. Bot is free
 1. In this new update you can use BNB instead WBNB. it will make you easier to snipe :)
 
 ## What's will you get
-Everything is free no charge. Please only contact to Telegrame:<code>https://t.me/seng55</code> with subject <b>PC bot</b> for more info. For error or problem questions please open issues in GitHub, don't email me. Maybe I'll slow response on weekend. Thanks!
+Everything is free no charge. Please only contact to Telegrame:<code>https://t.me/seng55</code> with subject <b>PC bot</b> for more info. For error or problem questions please open issues in GitHub, don't PM me. Maybe I'll slow response on weekend. Thanks!
 
 ## Bot future
 1. You can snipe new listing token you want on pancakeswap v2 
