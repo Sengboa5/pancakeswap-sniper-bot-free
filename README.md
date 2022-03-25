@@ -1,4 +1,4 @@
-<h1>Free pancakeswap sniper bot</h1>
+<h1>Pancakeswap sniper bot free </h1>
   
 * Disable your antivirus Before open bot, because some EXE file is not install package will be block
 ## Note
