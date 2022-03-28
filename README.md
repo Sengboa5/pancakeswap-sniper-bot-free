@@ -33,8 +33,8 @@ Everything is free no charge. Please only contact to Telegrame:<code>https://t.m
 ## HOW TO RUN
 1. set up your config.py to with this explanation : 
 ----------------------------------------------------------
-- walletAddress = "0x0000000000000000000000000000000000000000"                     #Your Wall address From trustwallet or another wallet.
-- private_key = "x000000000000000000000000000000000000000000000000000000000000000" #Wallet private_key
+- walletAddress = "Your_wallet"                     #Your Wall address From trustwallet or another wallet.
+- private_key = "Wallet_private_key" #Wallet private_key
 
 - spend = "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c"  # WBNB OR OTHER contract for buy the token
 
