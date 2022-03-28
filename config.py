@@ -1,6 +1,6 @@
 
-walletAddress = "0x0000000000000000000000000000000000000111"                     #Your Wall address From trustwallet or MetaMask or another wallet.
-private_key = "0x00000000000000000000000000000000000000000000000000000000000000" #Wallet private_key
+walletAddress = "Your_wallet"                     #Your Wall address From trustwallet or MetaMask or another wallet.
+private_key = "Wallet_private_key" #Wallet private_key
 
 spend = "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c"  # WBNB OR BUSD OR USDT OR OTHER (Default BNB) contract for buy the token
 
@@ -14,4 +14,4 @@ transactionRevertTime = 1000 #Limit for make transaction
 gasAmount = 500000 #Minimul limit is 210000, more much more better.
 gasPrice = 7 #Customize your GWEI (gas fee) here, cannot decimal. (eg : 5, 10, 25).
 
-bsc_rpc = "https://bsc-dataseed.binance.org/"                                        #BSC JSON-RPC
+bsc_rpc = "https://bsc-dataseed.binance.org/"          #BSC JSON-RPC
