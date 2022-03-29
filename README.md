@@ -33,7 +33,7 @@ Everything is free no charge. Please only contact to Telegrame:<code>https://t.m
 ## HOW TO RUN
 1. set up your config.py to with this explanation : 
 ----------------------------------------------------------
-- walletAddress = "Your_wallet"                     #Your Wall address From trustwallet or another wallet.
+- walletAddress = "Your_wallet"                     #Your Wall address From trustwallet or another wallet. How to Export an Account Private Key https://metamask.zendesk.com/hc/en-us/articles/360015289632-How-to-Export-an-Account-Private-Key
 - private_key = "Wallet_private_key" #Wallet private_key
 
 - spend = "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c"  # WBNB OR OTHER contract for buy the token
