@@ -26,6 +26,8 @@ Everything is free no charge. Please only contact to Telegrame:<code>https://t.m
 3. Sell token by TakeProfit or Selllimt (Capital is AmountForSnipe)
 3. Approve 
 4. Check Real price
+5. Buy limit
+6. Sell Limit
 
 ## How sniper work ?
 1. When liquidity added Bot will auto buy and sell when profit more than takeprofit (Please Approve before Sniper)
